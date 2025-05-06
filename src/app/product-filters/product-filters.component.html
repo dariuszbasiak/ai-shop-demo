@@ -1,0 +1,51 @@
+<div class="container">
+  <div class="filters">
+    <mat-card appearance="outlined">
+      <mat-card-header>
+        <mat-card-title> Product filters</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <form [formGroup]="formGroup" class="filters-form">
+          <mat-radio-group
+            aria-label="Select an option"
+            formControlName="productType"
+            class="radio-group"
+          >
+            <h3>Product Type</h3>
+            <mat-radio-button value="trousers" class="radio-button"
+              >Trousers</mat-radio-button
+            >
+            <mat-radio-button value="t-shirt" class="radio-button"
+              >T-Shirt</mat-radio-button
+            >
+            <mat-radio-button value="jacket" class="radio-button"
+              >jacket</mat-radio-button
+            >
+            <mat-radio-button value="dress" class="radio-button"
+              >Dress</mat-radio-button
+            >
+          </mat-radio-group>
+
+          <mat-radio-group
+            aria-label="Select an option"
+            formControlName="color"
+            class="radio-group"
+          >
+            <h3>Color</h3>
+            @for (color of colors; track color) {
+            <mat-radio-button class="radio-button" [value]="color">{{
+              color
+            }}</mat-radio-button>
+            }
+            <mat-radio-button value="other" class="radio-button"
+              >Other</mat-radio-button
+            >
+          </mat-radio-group>
+        </form>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-stroked-button (click)="searchProduct()">Search</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "abcd123",
+    "items": [
+      {
+        "id": 148,
+        "productType": "t-shirt",
+        "productName": "Cold Shoulder Red Top",
+        "color": "red",
+        "price": 34.0,
+        "description": "Stylish red top with cold shoulder cutouts. Soft jersey material.",
+        "img": "https://placehold.co/600x400.png"
+      },
+      {
+        "id": 149,
+        "productType": "trousers",
+        "productName": "Animal Print Leggings",
+        "color": "other",
+        "price": 42.0,
+        "description": "High-waisted leggings featuring a trendy brown and black animal print.",
+        "img": "https://placehold.co/600x400.png"
+      }
+    ],
+    "paymentStatus": "payed",
+    "shippingStatus": "shipped",
+    "dateOfOrder": 1744761600000
+  },
+  {
+    "id": "cdef323",
+    "items": [
+      {
+        "id": 136,
+        "productType": "t-shirt",
+        "productName": "Waffle Knit Blue Thermal",
+        "color": "blue",
+        "price": 40.0,
+        "description": "Long sleeve thermal shirt in blue waffle knit. Perfect base layer.",
+        "img": "https://placehold.co/600x400.png"
+      },
+      {
+        "id": 137,
+        "productType": "trousers",
+        "productName": "Metallic Silver Leggings",
+        "color": "other",
+        "price": 45.99,
+        "description": "Eye-catching metallic silver leggings with a comfortable stretch fit.",
+        "img": "https://placehold.co/600x400.png"
+      },
+      {
+        "id": 138,
+        "productType": "sweatshirt",
+        "productName": "Cutout Shoulder Grey Sweatshirt",
+        "color": "other",
+        "price": 63.0,
+        "description": "Fashion-forward grey sweatshirt with trendy cutout shoulder details.",
+        "img": "https://placehold.co/600x400.png"
+      }
+    ],
+    "paymentStatus": "payed",
+    "shippingStatus": "delivered",
+    "dateOfOrder": 1745501425763
+  }
+]

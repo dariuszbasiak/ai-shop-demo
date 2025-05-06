@@ -1,0 +1,26 @@
+.radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+  align-items: flex-start;
+}
+
+.radio-button {
+  margin: 5px;
+}
+
+.container {
+  display: flex;
+
+  .filters {
+    width: 320px;
+    padding: 0 12px;
+  }
+
+  .product-list {
+    flex: 1;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+}

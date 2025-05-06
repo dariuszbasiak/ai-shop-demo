@@ -1,0 +1,17 @@
+.product-card {
+  width: 260px;
+  .card-image {
+    width: 100%;
+  }
+}
+.mat-mdc-card-header-text {
+  width: 100%;
+  min-width: 0;
+}
+
+.title {
+  width: calc(100% - 32px);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

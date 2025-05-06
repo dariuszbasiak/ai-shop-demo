@@ -1,0 +1,6 @@
+<div class="orders">
+  <h1>Your Orders</h1>
+  @for (order of orders; track order.id) {
+  <app-order-item [order]="order" [expanded]="selectedOrderId === order.id" />
+  }
+</div>

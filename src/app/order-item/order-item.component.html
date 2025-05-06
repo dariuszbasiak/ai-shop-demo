@@ -1,0 +1,20 @@
+<mat-accordion>
+  <mat-expansion-panel hideToggle [expanded]="expanded">
+    <mat-expansion-panel-header>
+      <mat-panel-title> Orders ID: {{ order?.id }} </mat-panel-title>
+      <mat-panel-description>
+        {{ order?.dateOfOrder | date }}
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    Status: {{ order?.paymentStatus }} <br />
+    Shipping status: {{ order?.shippingStatus }}
+    <div>
+      <p>Item list</p>
+      <ul>
+        @for(item of order?.items; track item.id) {
+        <li>{{ item.productName }} {{ item.price | currency }}</li>
+        }
+      </ul>
+    </div>
+  </mat-expansion-panel>
+</mat-accordion>

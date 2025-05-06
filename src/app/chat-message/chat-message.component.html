@@ -1,0 +1,12 @@
+<div class="chat-message" [ngClass]="message?.role">
+  <div class="role">
+    @if (message?.role === 'user') {
+    <mat-icon>person</mat-icon>
+    } @if (message?.role === 'assistant') {
+    <mat-icon>assistant</mat-icon>
+    }
+  </div>
+  <div class="content">
+    <markdown> {{ message?.content }} </markdown>
+  </div>
+</div>

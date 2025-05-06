@@ -1,0 +1,902 @@
+[
+  {
+    "id": 51,
+    "productType": "jacket",
+    "productName": "Lightweight Blue Windbreaker",
+    "color": "blue",
+    "price": 79.99,
+    "description": "A versatile lightweight blue windbreaker jacket, perfect for transitional weather. Folds easily.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 52,
+    "productType": "t-shirt",
+    "productName": "Organic Cotton Green T-Shirt",
+    "color": "green",
+    "price": 29.5,
+    "description": "Soft green t-shirt made from 100% organic cotton. Crew neck, regular fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 53,
+    "productType": "trousers",
+    "productName": "Classic Black Chinos",
+    "color": "other",
+    "price": 59.95,
+    "description": "Timeless black chino trousers. Smart casual style, comfortable fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 54,
+    "productType": "sweatshirt",
+    "productName": "Heather Grey Hoodie",
+    "color": "other",
+    "price": 65.0,
+    "description": "Cozy heather grey hooded sweatshirt with front kangaroo pocket. Fleece lined.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 55,
+    "productType": "skirt",
+    "productName": "Red A-Line Mini Skirt",
+    "color": "red",
+    "price": 45.0,
+    "description": "Bright red A-line mini skirt made from a durable cotton blend.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 56,
+    "productType": "dress",
+    "productName": "Floral Blue Maxi Dress",
+    "color": "blue",
+    "price": 99.99,
+    "description": "Elegant maxi dress with a blue floral pattern. V-neck and adjustable straps.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 57,
+    "productType": "t-shirt",
+    "productName": "Striped Red & White T-Shirt",
+    "color": "red",
+    "price": 24.99,
+    "description": "Classic red and white striped t-shirt. Short sleeves, boat neck.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 58,
+    "productType": "jacket",
+    "productName": "Quilted Green Puffer Jacket",
+    "color": "green",
+    "price": 129.0,
+    "description": "Warm green puffer jacket with horizontal quilting. Zip front and side pockets.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 59,
+    "productType": "trousers",
+    "productName": "Comfort Fit Blue Jeans",
+    "color": "blue",
+    "price": 75.5,
+    "description": "Comfortable blue denim jeans with a classic five-pocket design. Straight leg.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 60,
+    "productType": "sweatshirt",
+    "productName": "Vintage Wash Red Sweatshirt",
+    "color": "red",
+    "price": 58.0,
+    "description": "Crew neck sweatshirt in a vintage washed red. Relaxed fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 61,
+    "productType": "skirt",
+    "productName": "Pleated Green Midi Skirt",
+    "color": "green",
+    "price": 62.95,
+    "description": "Elegant pleated midi skirt in a vibrant green color. Elastic waistband.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 62,
+    "productType": "dress",
+    "productName": "Little Black Dress",
+    "color": "other",
+    "price": 110.0,
+    "description": "The essential little black dress. Sleeveless sheath silhouette, knee-length.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 63,
+    "productType": "jacket",
+    "productName": "Beige Trench Coat",
+    "color": "other",
+    "price": 175.0,
+    "description": "Classic double-breasted trench coat in beige. Water-resistant fabric.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 64,
+    "productType": "t-shirt",
+    "productName": "Graphic Print Blue T-Shirt",
+    "color": "blue",
+    "price": 32.0,
+    "description": "Navy blue t-shirt featuring a unique front graphic print. Cotton blend.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 65,
+    "productType": "trousers",
+    "productName": "Wide-Leg Green Linen Trousers",
+    "color": "green",
+    "price": 69.99,
+    "description": "Airy wide-leg trousers in green linen. Perfect for warm weather.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 66,
+    "productType": "sweatshirt",
+    "productName": "Zip-Up Blue Fleece",
+    "color": "blue",
+    "price": 72.0,
+    "description": "Warm blue fleece sweatshirt with a full zip front. High neck collar.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 67,
+    "productType": "skirt",
+    "productName": "Denim Pencil Skirt",
+    "color": "blue",
+    "price": 55.0,
+    "description": "Classic blue denim pencil skirt with a back slit for ease of movement.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 68,
+    "productType": "dress",
+    "productName": "Red Wrap Maxi Dress",
+    "color": "red",
+    "price": 115.5,
+    "description": "Flowing red maxi dress with a flattering wrap design and tie waist.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 69,
+    "productType": "jacket",
+    "productName": "Faux Leather Black Biker Jacket",
+    "color": "other",
+    "price": 140.0,
+    "description": "Edgy black biker jacket in high-quality faux leather. Asymmetric zip.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 70,
+    "productType": "t-shirt",
+    "productName": "Plain White V-Neck T-Shirt",
+    "color": "other",
+    "price": 19.99,
+    "description": "Essential plain white V-neck t-shirt. Slim fit, soft cotton.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 71,
+    "productType": "trousers",
+    "productName": "Checkered Red Trousers",
+    "color": "red",
+    "price": 78.0,
+    "description": "Statement checkered trousers in red and black. Tapered leg.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 72,
+    "productType": "sweatshirt",
+    "productName": "Cropped Green Sweatshirt",
+    "color": "green",
+    "price": 49.95,
+    "description": "Trendy cropped sweatshirt in mint green. Raw hem detail.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 73,
+    "productType": "skirt",
+    "productName": "Floral Print White Maxi Skirt",
+    "color": "other",
+    "price": 68.0,
+    "description": "Boho-style white maxi skirt with a delicate floral print.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 74,
+    "productType": "dress",
+    "productName": "Green Shirt Dress",
+    "color": "green",
+    "price": 95.0,
+    "description": "Casual shirt dress in olive green with a tie belt. Button front.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 75,
+    "productType": "jacket",
+    "productName": "Corduroy Red Jacket",
+    "color": "red",
+    "price": 105.0,
+    "description": "Vintage-style corduroy jacket in a deep red hue. Button closure.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 76,
+    "productType": "t-shirt",
+    "productName": "Long Sleeve Blue Henley",
+    "color": "blue",
+    "price": 35.0,
+    "description": "Comfortable long sleeve Henley shirt in navy blue. Three-button placket.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 77,
+    "productType": "trousers",
+    "productName": "Grey Jogger Pants",
+    "color": "other",
+    "price": 52.5,
+    "description": "Soft grey jogger pants with elastic waistband and cuffs. Ideal for leisure.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 78,
+    "productType": "sweatshirt",
+    "productName": "Graphic Print Black Sweatshirt",
+    "color": "other",
+    "price": 68.99,
+    "description": "Black crew neck sweatshirt with a bold graphic print on the back.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 79,
+    "productType": "skirt",
+    "productName": "Satin Blue Midi Skirt",
+    "color": "blue",
+    "price": 75.0,
+    "description": "Luxurious satin midi skirt in royal blue. Bias cut for a flattering drape.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 80,
+    "productType": "dress",
+    "productName": "Striped T-Shirt Dress",
+    "color": "other",
+    "price": 59.99,
+    "description": "Casual black and white striped t-shirt dress. Knee-length, relaxed fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 81,
+    "productType": "jacket",
+    "productName": "Utility Green Field Jacket",
+    "color": "green",
+    "price": 155.0,
+    "description": "Durable green field jacket with multiple front pockets. Drawstring waist.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 82,
+    "productType": "t-shirt",
+    "productName": "Pocket Red T-Shirt",
+    "color": "red",
+    "price": 22.5,
+    "description": "Simple red t-shirt with a single chest pocket. Regular fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 83,
+    "productType": "trousers",
+    "productName": "Pinstripe Blue Trousers",
+    "color": "blue",
+    "price": 85.0,
+    "description": "Smart pinstripe trousers in navy blue. Tailored fit for formal occasions.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 84,
+    "productType": "sweatshirt",
+    "productName": "Color Block Hoodie",
+    "color": "other",
+    "price": 70.0,
+    "description": "Stylish color block hoodie featuring blue, grey, and white panels.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 85,
+    "productType": "skirt",
+    "productName": "Leather-Look Black Mini Skirt",
+    "color": "other",
+    "price": 58.0,
+    "description": "Edgy black mini skirt with a faux leather finish. Zip back closure.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 86,
+    "productType": "dress",
+    "productName": "Bohemian Green Print Dress",
+    "color": "green",
+    "price": 105.0,
+    "description": "Flowy bohemian style dress with a green paisley print. Long sleeves.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 87,
+    "productType": "jacket",
+    "productName": "Varsity Style Blue Jacket",
+    "color": "blue",
+    "price": 119.95,
+    "description": "Classic varsity style jacket in blue with contrast sleeves and ribbed trim.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 88,
+    "productType": "t-shirt",
+    "productName": "Tie-Dye Green T-Shirt",
+    "color": "green",
+    "price": 33.0,
+    "description": "Unique tie-dye t-shirt in shades of green. Each piece is unique.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 89,
+    "productType": "trousers",
+    "productName": "High-Waisted Red Trousers",
+    "color": "red",
+    "price": 72.99,
+    "description": "Flattering high-waisted trousers in a bold red. Wide leg silhouette.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 90,
+    "productType": "sweatshirt",
+    "productName": "Funnel Neck Red Sweatshirt",
+    "color": "red",
+    "price": 64.5,
+    "description": "Stylish red sweatshirt with a cozy funnel neck design.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 91,
+    "productType": "skirt",
+    "productName": "Checkered Green Mini Skirt",
+    "color": "green",
+    "price": 49.0,
+    "description": "Preppy green and navy checkered mini skirt. Pleated design.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 92,
+    "productType": "dress",
+    "productName": "Lace Trim Blue Slip Dress",
+    "color": "blue",
+    "price": 89.95,
+    "description": "Elegant slip dress in navy blue satin with delicate lace trim.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 93,
+    "productType": "jacket",
+    "productName": "Sherpa Lined Denim Jacket",
+    "color": "blue",
+    "price": 165.0,
+    "description": "Warm blue denim jacket lined with cozy white sherpa fleece.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 94,
+    "productType": "t-shirt",
+    "productName": "Embroidered White T-Shirt",
+    "color": "other",
+    "price": 38.0,
+    "description": "Simple white t-shirt elevated with subtle floral embroidery on the chest.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 95,
+    "productType": "trousers",
+    "productName": "Cropped Green Culottes",
+    "color": "green",
+    "price": 61.99,
+    "description": "Fashionable cropped culottes in forest green. High waist fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 96,
+    "productType": "sweatshirt",
+    "productName": "Oversized Beige Sweatshirt",
+    "color": "other",
+    "price": 59.5,
+    "description": "Comfortable oversized sweatshirt in a neutral beige tone. Dropped shoulders.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 97,
+    "productType": "skirt",
+    "productName": "Button-Front Red Corduroy Skirt",
+    "color": "red",
+    "price": 53.0,
+    "description": "A-line corduroy skirt in rust red with a full button front.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 98,
+    "productType": "dress",
+    "productName": "Polka Dot Black & White Dress",
+    "color": "other",
+    "price": 98.0,
+    "description": "Chic midi dress featuring a classic black and white polka dot print.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 99,
+    "productType": "jacket",
+    "productName": "Technical Red Rain Jacket",
+    "color": "red",
+    "price": 185.0,
+    "description": "High-performance technical rain jacket in bright red. Waterproof and breathable.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 100,
+    "productType": "t-shirt",
+    "productName": "Muscle Fit Green T-Shirt",
+    "color": "green",
+    "price": 27.0,
+    "description": "Dark green t-shirt designed with a muscle fit. Stretch cotton fabric.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 101,
+    "productType": "trousers",
+    "productName": "Drawstring Blue Linen Pants",
+    "color": "blue",
+    "price": 66.5,
+    "description": "Casual light blue linen pants with a comfortable drawstring waist.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 102,
+    "productType": "sweatshirt",
+    "productName": "Half-Zip Green Sweatshirt",
+    "color": "green",
+    "price": 74.99,
+    "description": "Sporty green sweatshirt with a half-zip neckline. Ribbed cuffs and hem.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 103,
+    "productType": "skirt",
+    "productName": "Wrap Style Blue Maxi Skirt",
+    "color": "blue",
+    "price": 71.0,
+    "description": "Flowing maxi skirt in navy blue featuring a wrap-style front and tie detail.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 104,
+    "productType": "dress",
+    "productName": "Ribbed Knit Red Midi Dress",
+    "color": "red",
+    "price": 85.9,
+    "description": "Figure-hugging midi dress in a ribbed knit fabric. Deep red color.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 105,
+    "productType": "jacket",
+    "productName": "Plaid Wool Blend Coat",
+    "color": "other",
+    "price": 220.0,
+    "description": "Warm wool blend coat featuring a classic grey and black plaid pattern.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 106,
+    "productType": "t-shirt",
+    "productName": "Slub Cotton Blue T-Shirt",
+    "color": "blue",
+    "price": 28.0,
+    "description": "Light blue t-shirt made from textured slub cotton. Relaxed feel.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 107,
+    "productType": "trousers",
+    "productName": "Cargo Style Green Shorts",
+    "color": "green",
+    "price": 48.5,
+    "description": "Practical cargo shorts in olive green with multiple utility pockets.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 108,
+    "productType": "sweatshirt",
+    "productName": "Embroidered Logo Blue Hoodie",
+    "color": "blue",
+    "price": 79.0,
+    "description": "Royal blue hoodie sweatshirt featuring a subtle embroidered logo on the chest.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 109,
+    "productType": "skirt",
+    "productName": "Tiered White Cotton Skirt",
+    "color": "other",
+    "price": 65.0,
+    "description": "Light and airy white cotton skirt with multiple gathered tiers. Midi length.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 110,
+    "productType": "dress",
+    "productName": "Velvet Green Mini Dress",
+    "color": "green",
+    "price": 125.0,
+    "description": "Luxurious velvet mini dress in emerald green. Long sleeves, bodycon fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 111,
+    "productType": "jacket",
+    "productName": "Suede Bomber Jacket",
+    "color": "other",
+    "price": 195.0,
+    "description": "Stylish bomber jacket made from soft brown suede. Zip front.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 112,
+    "productType": "t-shirt",
+    "productName": "Burnout Red T-Shirt",
+    "color": "red",
+    "price": 31.0,
+    "description": "Semi-sheer burnout t-shirt in a faded red. Unique textured look.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 113,
+    "productType": "trousers",
+    "productName": "Pleated Front Grey Trousers",
+    "color": "other",
+    "price": 82.0,
+    "description": "Sophisticated grey trousers with a pleated front design. Wool blend.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 114,
+    "productType": "sweatshirt",
+    "productName": "Tie-Dye Blue & White Sweatshirt",
+    "color": "blue",
+    "price": 76.5,
+    "description": "Eye-catching tie-dye sweatshirt in blue and white swirls. Crew neck.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 115,
+    "productType": "skirt",
+    "productName": "Asymmetric Hem Green Skirt",
+    "color": "green",
+    "price": 59.99,
+    "description": "Modern skirt in olive green featuring a stylish asymmetric hemline.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 116,
+    "productType": "dress",
+    "productName": "Off-Shoulder Red Dress",
+    "color": "red",
+    "price": 108.0,
+    "description": "Romantic off-the-shoulder dress in a stunning red shade. Midi length.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 117,
+    "productType": "jacket",
+    "productName": "Colorblock Green & Black Windbreaker",
+    "color": "green",
+    "price": 85.0,
+    "description": "Sporty windbreaker jacket with green and black colorblock panels.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 118,
+    "productType": "t-shirt",
+    "productName": "Basic Black Crew Neck T-Shirt",
+    "color": "other",
+    "price": 18.99,
+    "description": "Essential basic black crew neck t-shirt. Versatile and comfortable.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 119,
+    "productType": "trousers",
+    "productName": "Paperbag Waist Blue Trousers",
+    "color": "blue",
+    "price": 77.0,
+    "description": "Trendy paperbag waist trousers in light blue. Comes with a fabric belt.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 120,
+    "productType": "sweatshirt",
+    "productName": "Terry Cloth Red Sweatshirt",
+    "color": "red",
+    "price": 66.0,
+    "description": "Retro-inspired sweatshirt made from soft red terry cloth fabric.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 121,
+    "productType": "skirt",
+    "productName": "Sequin Embellished Black Skirt",
+    "color": "other",
+    "price": 95.0,
+    "description": "Glamorous black mini skirt fully embellished with sequins. Perfect for parties.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 122,
+    "productType": "dress",
+    "productName": "Smocked Bodice Blue Sundress",
+    "color": "blue",
+    "price": 82.5,
+    "description": "Cute blue sundress with a comfortable smocked bodice and shoulder ties.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 123,
+    "productType": "jacket",
+    "productName": "Reflective Silver Jacket",
+    "color": "other",
+    "price": 110.0,
+    "description": "Statement jacket in a reflective silver material. Hooded design.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 124,
+    "productType": "t-shirt",
+    "productName": "Cropped Green Ribbed T-Shirt",
+    "color": "green",
+    "price": 26.0,
+    "description": "Fitted cropped t-shirt in ribbed green fabric. Short sleeves.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 125,
+    "productType": "trousers",
+    "productName": "Velvet Red Flared Trousers",
+    "color": "red",
+    "price": 88.0,
+    "description": "Luxurious red velvet trousers with a retro flared leg silhouette.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 126,
+    "productType": "sweatshirt",
+    "productName": "Sherpa Pullover Green Sweatshirt",
+    "color": "green",
+    "price": 81.0,
+    "description": "Ultra-cozy pullover sweatshirt made from soft green sherpa fleece.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 127,
+    "productType": "skirt",
+    "productName": "Ruffled Hem Blue Skirt",
+    "color": "blue",
+    "price": 63.5,
+    "description": "Playful mini skirt in sky blue with a cute ruffled hemline.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 128,
+    "productType": "dress",
+    "productName": "Sweater Knit Grey Dress",
+    "color": "other",
+    "price": 112.0,
+    "description": "Cozy and chic sweater knit dress in charcoal grey. Long sleeves, midi length.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 129,
+    "productType": "jacket",
+    "productName": "Floral Print Bomber Jacket",
+    "color": "other",
+    "price": 125.99,
+    "description": "Satin bomber jacket featuring a vibrant floral print on a black background.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 130,
+    "productType": "t-shirt",
+    "productName": "Mesh Panel Red T-Shirt",
+    "color": "red",
+    "price": 36.0,
+    "description": "Sporty red t-shirt with breathable mesh panels on the shoulders and back.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 131,
+    "productType": "trousers",
+    "productName": "Plaid Green Wool Trousers",
+    "color": "green",
+    "price": 95.5,
+    "description": "Smart wool trousers featuring a subtle green and brown plaid pattern.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 132,
+    "productType": "sweatshirt",
+    "productName": "Acid Wash Blue Sweatshirt",
+    "color": "blue",
+    "price": 69.0,
+    "description": "80s inspired sweatshirt with a cool blue acid wash finish.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 133,
+    "productType": "skirt",
+    "productName": "Animal Print Midi Skirt",
+    "color": "other",
+    "price": 73.0,
+    "description": "Trendy midi skirt in a bold leopard animal print. Silky feel.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 134,
+    "productType": "dress",
+    "productName": "Knit Green Bodycon Dress",
+    "color": "green",
+    "price": 92.99,
+    "description": "Figure-hugging bodycon dress in a ribbed knit olive green fabric.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 135,
+    "productType": "jacket",
+    "productName": "Longline Red Puffer Vest",
+    "color": "red",
+    "price": 130.0,
+    "description": "Stylish longline puffer vest in vibrant red. Ideal for layering.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 136,
+    "productType": "t-shirt",
+    "productName": "Waffle Knit Blue Thermal",
+    "color": "blue",
+    "price": 40.0,
+    "description": "Long sleeve thermal shirt in blue waffle knit. Perfect base layer.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 137,
+    "productType": "trousers",
+    "productName": "Metallic Silver Leggings",
+    "color": "other",
+    "price": 45.99,
+    "description": "Eye-catching metallic silver leggings with a comfortable stretch fit.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 138,
+    "productType": "sweatshirt",
+    "productName": "Cutout Shoulder Grey Sweatshirt",
+    "color": "other",
+    "price": 63.0,
+    "description": "Fashion-forward grey sweatshirt with trendy cutout shoulder details.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 139,
+    "productType": "skirt",
+    "productName": "Tulle Overlay Blue Skirt",
+    "color": "blue",
+    "price": 78.5,
+    "description": "Whimsical midi skirt with layers of soft blue tulle over a lining.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 140,
+    "productType": "dress",
+    "productName": "One-Shoulder Red Gown",
+    "color": "red",
+    "price": 249.99,
+    "description": "Elegant one-shoulder evening gown in a striking red color. Floor length.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 141,
+    "productType": "jacket",
+    "productName": "Canvas Green Work Jacket",
+    "color": "green",
+    "price": 148.0,
+    "description": "Rugged work jacket made from durable green canvas. Multiple pockets.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 142,
+    "productType": "t-shirt",
+    "productName": "Lace Trim Black Camisole",
+    "color": "other",
+    "price": 29.99,
+    "description": "Versatile black camisole top with delicate lace trim. Adjustable straps.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 143,
+    "productType": "trousers",
+    "productName": "Sequin Covered Red Trousers",
+    "color": "red",
+    "price": 110.0,
+    "description": "Dazzling red trousers covered entirely in shimmering sequins. Straight leg.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 144,
+    "productType": "sweatshirt",
+    "productName": "Waffle Knit Green Hoodie",
+    "color": "green",
+    "price": 77.95,
+    "description": "Comfortable hoodie in a textured green waffle knit fabric.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 145,
+    "productType": "skirt",
+    "productName": "Patchwork Denim Skirt",
+    "color": "blue",
+    "price": 69.5,
+    "description": "Unique mini skirt made from different shades of blue denim patchwork.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 146,
+    "productType": "dress",
+    "productName": "Satin Cowl Neck Green Dress",
+    "color": "green",
+    "price": 135.0,
+    "description": "Elegant midi dress in forest green satin featuring a flattering cowl neckline.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 147,
+    "productType": "jacket",
+    "productName": "Reversible Blue/Grey Bomber",
+    "color": "blue",
+    "price": 159.0,
+    "description": "Versatile bomber jacket, reversible design with blue on one side, grey on the other.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 148,
+    "productType": "t-shirt",
+    "productName": "Cold Shoulder Red Top",
+    "color": "red",
+    "price": 34.0,
+    "description": "Stylish red top with cold shoulder cutouts. Soft jersey material.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 149,
+    "productType": "trousers",
+    "productName": "Animal Print Leggings",
+    "color": "other",
+    "price": 42.0,
+    "description": "High-waisted leggings featuring a trendy brown and black animal print.",
+    "img": "https://placehold.co/600x400.png"
+  },
+  {
+    "id": 150,
+    "productType": "sweatshirt",
+    "productName": "Embellished Pearl Detail Sweatshirt",
+    "color": "other",
+    "price": 85.0,
+    "description": "Chic white sweatshirt adorned with delicate pearl embellishments on the shoulders.",
+    "img": "https://placehold.co/600x400.png"
+  }
+]

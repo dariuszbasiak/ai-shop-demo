@@ -1,0 +1,33 @@
+<div class="chat">
+  @if(progressBarValue < 100) {
+  <mat-progress-bar
+    mode="determinate"
+    [value]="progressBarValue"
+  ></mat-progress-bar>
+  } @if(isLoading) {
+  <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+  }
+  <div class="chat__messages">
+    @for (message of messages; track message.content) {
+
+    <app-chat-message [message]="message" />
+
+    }
+  </div>
+  <div class="chat__prompt">
+    <p>{{ progressMessage }}</p>
+    <mat-form-field appearance="outline" class="chat__input">
+      <textarea
+        matInput
+        [disabled]="isLoading"
+        [formControl]="textArea"
+      ></textarea>
+    </mat-form-field>
+
+    <div>
+      <button mat-stroked-button (click)="sendQuery()" [disabled]="isLoading">
+        Send
+      </button>
+    </div>
+  </div>
+</div>

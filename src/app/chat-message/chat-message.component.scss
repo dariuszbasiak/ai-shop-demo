@@ -1,0 +1,14 @@
+.chat-message {
+  width: calc(100% - 48px);
+  border: solid 1px silver;
+  padding: 8px;
+  border-radius: 8px;
+
+  &.user {
+    margin: 6px 36px 6px 12px;
+  }
+
+  &.assistant {
+    margin: 6px 12px 6px 36px;
+  }
+}
