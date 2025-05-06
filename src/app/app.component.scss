@@ -1,0 +1,11 @@
+.container-main {
+  display: flex;
+  width: 100vw;
+  &__outlet {
+    flex: 1;
+  }
+
+  &__chat {
+    width: 480px;
+  }
+}
